@@ -1,16 +1,53 @@
-### Hi there 👋
+# Hello there! 👋
 
-<!--
-**VisiDK/VisiDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🧑‍💻 I love coding.
+- 🧑‍💻 I'm a self-taught programmer and I'm always ready to learn new stuff.
+- 🎓 I’m currently learning Javascript, php & C#.
 
-Here are some ideas to get you started:
+## Current Focus
+🤨 Currently, I am working on:
+- A small startup project that excites me with its potential.
+- My own coding projects, where I get to experiment and bring my ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
+I am proficient in the following programming languages and libraries:
+
+<div align="center">
+  <p2>Tech Stack<br></p2>
+  <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=html&sort=">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" width="55" />
+  </a>
+  <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=css&sort=">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" width="55" />
+  </a>
+  <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=css&sort=">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg" width="55" />
+  </a>
+  <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=python&sort=">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="55" />
+  </a>
+  <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=javascript&sort=">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="55" />
+  </a>
+  <a href="https://github.com/MikkelHebel?tab=repositories&q=&type=&language=c%2B%2B&sort=">
+    <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" width="55" />
+  </a>
+  <a href="https://www.github.com/">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github.svg" width="55" />
+  </a>
+  <a href="https://www.digitalocean.com/">
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" />
+  </a>
+</div>
+<br>
+
+## Programming analytics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisiDK&count_private=true&theme=transparent&show_icons=true&hide=prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiDK&theme=transparent&show_icons=true&layout=compact)
+
+
+Feel free to check out my GitHub repositories for more exciting projects and contributions. I'm always open to collaborations and would love to connect with fellow developers!
+
+Let's code and learn together! 🚀
