@@ -12,15 +12,15 @@
 
 ## Programming Languages
 I am proficient in the following programming languages and libraries:
-
+<p align="center">Tech Stack</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,arduino,raspberrypi" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,visualstudio,replit,github,heroku,digitalocean" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,replit,github,heroku,flask,cs" />
   </a>
 </p>
 
