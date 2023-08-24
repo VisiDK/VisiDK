@@ -22,28 +22,28 @@ I am proficient in the following programming languages and libraries:
     <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" width="55" />
   </a>
   <a href="#">
-    <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg](https://icons8.com/icon/108784/javascript)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg" width="55" border-radius="10" />
   </a>
   <a href="#">
-    <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg](https://icons8.com/icon/13441/python)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" width="55" border-radius="10" />
   </a>
   <a href="#">
-    <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg](https://icons8.com/icon/13444/arduino)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="55" border-radius="10" />
   </a>
   <a href="#">
-    <img align="center" src="[https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg](https://icons8.com/icon/84710/bootstrap)" width="55" />
+    <img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" width="55" border-radius="10" />
   </a>
   <a href="#">
-    <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github.svg](https://icons8.com/icon/48455/visual-studio)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github.svg" width="55" border-radius="10" />
   </a>
   <a href="#">
-    <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg](https://icons8.com/icon/LQTr8UsXQ1jm/replit)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" border-radius="10" />
   </a>
   <a href="#">
-    <img align="center" src="[[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg](https://icons8.com/icon/LQTr8UsXQ1jm/replit)](https://icons8.com/icon/3tC9EQumUAuq/github)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" border-radius="10" />
   </a>
   <a href="#">
-    <img align="center" src="[[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg](https://icons8.com/icon/LQTr8UsXQ1jm/replit)](https://icons8.com/icon/113621/digitalocean)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" border-radius="10" />
   </a>
 </div>
 <br>
