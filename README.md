@@ -16,10 +16,10 @@ I am proficient in the following programming languages and libraries:
 <div align="center">
   <p2>Tech Stack<br></p2>
   <a href="#">
-    <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg](https://icons8.com/icon/20909/html-5)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" width="55" />
   </a>
   <a href="#">
-    <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg](https://icons8.com/icon/7gdY5qNXaKC0/css3)" width="55" />
+    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" width="55" />
   </a>
   <a href="#">
     <img align="center" src="[https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg](https://icons8.com/icon/108784/javascript)" width="55" />
