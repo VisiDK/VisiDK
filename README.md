@@ -39,12 +39,6 @@ I am proficient in the following programming languages and libraries:
   <a href="#">
     <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" border-radius="10" />
   </a>
-  <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" border-radius="10" />
-  </a>
-  <a href="#">
-    <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/digital-ocean.svg" width="55" border-radius="10" />
-  </a>
 </div>
 <br>
 
