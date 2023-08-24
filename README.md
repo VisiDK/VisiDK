@@ -15,12 +15,12 @@ I am proficient in the following programming languages and libraries:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c++,python,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,arduino" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,visual studio, replit, git, heroku, digitalocean" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,visualstudio,replit,github,heroku,digitalocean" />
   </a>
 </p>
 
