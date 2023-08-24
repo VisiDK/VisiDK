@@ -10,9 +10,7 @@
 - A small startup project that excites me with its potential.
 - My own coding projects, where I get to experiment and bring my ideas to life.
 
-## Programming Languages
-I am proficient in the following programming languages and libraries:
-<p align="center">Tech Stack</p>
+## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,arduino,raspberrypi" />
