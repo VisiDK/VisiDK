@@ -9,7 +9,6 @@
 🤨 Currently, I am working on:
 - A small startup project that excites me with its potential.
 - My own coding projects, where I get to experiment and bring my ideas to life.
-- Working on a lot of private projects, if you need/want a look then contact me and maybe i will let you see 😏
 
 ## Tech Stack
 <p align="center">
