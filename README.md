@@ -13,22 +13,16 @@
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,cpp,python,arduino,raspberrypi,wordpress, " />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,cs,dotnet" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,replit,github,heroku,flask,cs" />
+    <img src="https://skillicons.dev/icons?i=replit,heroku,flask,python,arduino,raspberrypi,wordpress" />
   </a>
 </p>
 
 
+
 ## Programming analytics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisiDK&count_private=true&theme=transparent&show_icons=true&hide=prs)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiDK&theme=transparent&show_icons=true&layout=compact)
-
-
-Feel free to check out my GitHub repositories for more exciting projects and contributions. I'm always open to collaborations and would love to connect with fellow developers!
-
-Let's code and learn together! 🚀
