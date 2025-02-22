@@ -2,12 +2,11 @@
 
 ## About Me
 - 🧑‍💻 I love coding.
-- 🧑‍💻 I'm a self-taught programmer and I'm always ready to learn new stuff.
-- 🎓 I’m currently learning Javascript, php & C#.
+- 🧑‍💻 I'm a self-taught programmer and I'm always ready to learn new things, tho I've started education again
+- 🎓 I’m currently learning C#, python (and tensorflow), app development via flutter.
 
 ## Current Focus
 🤨 Currently, I am working on:
-- A small startup project that excites me with its potential.
 - My own coding projects, where I get to experiment and bring my ideas to life.
 
 ## Tech Stack
