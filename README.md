@@ -25,6 +25,9 @@
 
 ## Programming analytics
 <p align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiDK&theme=transparent&show_icons=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisiDK&theme=transparent&show_icons=true&layout=compact" alt="Anurag's GitHub stats" />
 </p>
+
+
+
 
