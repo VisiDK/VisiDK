@@ -24,6 +24,7 @@
 
 
 ## Programming analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiDK&theme=transparent&show_icons=true&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VisiDK)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiDK&theme=transparent&show_icons=true&layout=compact)
+</p>
 
