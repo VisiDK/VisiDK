@@ -12,12 +12,12 @@
 ## Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,cs,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,github,tensorflow" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=replit,heroku,flask,python,arduino,raspberrypi,wordpress" />
+    <img src="https://skillicons.dev/icons?i=python,dart,flutter,react,cs,dotnet" />
   </a>
 </p>
 
