@@ -25,3 +25,4 @@
 
 ## Programming analytics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiDK&theme=transparent&show_icons=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisiDK&show_icons=true&theme=transparent)
